@@ -1,7 +1,10 @@
 ## Hi there 👋
-🔭普通的大三计科学生，未来希望从事AI Agent方向
-🌱 目前正在学习AI Agent相关项目 
-🤔 目前正在保研路上^-^希望一切顺利~
+🔭普通的大三计科学生，未来希望从事AI Agent方向  
+
+🌱 目前正在学习AI Agent相关项目  
+
+🤔 目前正在保研路上^-^希望一切顺利~  
+
 💬 欢迎提issues ask me about anything 
 
 <!--
